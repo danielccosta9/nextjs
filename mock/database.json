@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Lennon",
+            "age": 40,
+            "email": "johnlen@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": 2,
+            "name": "Paul McCartney",
+            "age": 38,
+            "email": "paulmc@gmail.com",
+            "password": "123456"
+        },
+        {
+            "id": 3,
+            "name": "George Harrison",
+            "age": 35,
+            "email": "georgeha@gmail.com",
+            "password":"123456"
+        }
+    ]
+}   
